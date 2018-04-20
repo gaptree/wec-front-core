@@ -1,7 +1,7 @@
 ## Usage
 
 ```javascript
-import {CompanyLayout} from 'gap-front-core';
+import {CompanyLayout} from 'wec-front-core';
 
 const layout = new CompanyLayout();
 ```
@@ -9,7 +9,7 @@ const layout = new CompanyLayout();
 ### breadcrumb
 
 ```javascript
-layout.setBreadCrumb([
+layout.setBreadcrumb([
   {
     title: 'HOME', href: '/c/wec'
   },{

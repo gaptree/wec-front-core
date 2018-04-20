@@ -2,10 +2,7 @@
   "name": "wec-front-core",
   "version": "1.0.0",
   "description": "wec-front-layout",
-  "repositiry":{
-    "type": "git",
-    "url": "https://github.com/gaptree/wec-front-core"
-  },
+  "repositiry": "https://github.com/gaptree/wec-front-core",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
